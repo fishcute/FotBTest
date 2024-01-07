@@ -1,0 +1,255 @@
+[
+    {
+        "name": "Vision 1",
+        "color": "#ffffff",
+        "icon": "flag",
+        "visibility": "always",
+        "location": {
+            "x": -16,
+            "y": 74,
+            "z": -1163
+        }
+    },
+    {
+        "name": "Vision 2",
+        "color": "#ffffff",
+        "icon": "flag",
+        "visibility": "always",
+        "location": {
+            "x": 1195,
+            "y": 74,
+            "z": -1937
+        }
+    },
+    {
+        "name": "Vision 3",
+        "color": "#ffffff",
+        "icon": "flag",
+        "visibility": "always",
+        "location": {
+            "x": 102,
+            "y": 36,
+            "z": -2270
+        }
+    },
+    {
+        "name": "Vision 4",
+        "color": "#ffffff",
+        "icon": "flag",
+        "visibility": "always",
+        "location": {
+            "x": 904,
+            "y": 86,
+            "z": -1300
+        }
+    },
+    {
+        "name": "Vision 5",
+        "color": "#ffffff",
+        "icon": "flag",
+        "visibility": "always",
+        "location": {
+            "x": 1296,
+            "y": 31,
+            "z": -1331
+        }
+    },
+    {
+        "name": "Vision 6",
+        "color": "#ffffff",
+        "icon": "flag",
+        "visibility": "always",
+        "location": {
+            "x": -456,
+            "y": 72,
+            "z": -1225
+        }
+    },
+    {
+        "name": "Vision 7",
+        "color": "#ffffff",
+        "icon": "flag",
+        "visibility": "always",
+        "location": {
+            "x": -522,
+            "y": 39,
+            "z": -2746
+        }
+    },
+    {
+        "name": "Vision 8",
+        "color": "#ffffff",
+        "icon": "flag",
+        "visibility": "always",
+        "location": {
+            "x": -821,
+            "y": 76,
+            "z": -919
+        }
+    },
+    {
+        "name": "Vision 9",
+        "color": "#ffffff",
+        "icon": "flag",
+        "visibility": "always",
+        "location": {
+            "x": -566,
+            "y": 36,
+            "z": -3393
+        }
+    },
+    {
+        "name": "Vision 10",
+        "color": "#ffffff",
+        "icon": "flag",
+        "visibility": "always",
+        "location": {
+            "x": -101,
+            "y": 98,
+            "z": -419
+        }
+    },
+    {
+        "name": "Vision 11",
+        "color": "#ffffff",
+        "icon": "flag",
+        "visibility": "always",
+        "location": {
+            "x": -1739,
+            "y": 57,
+            "z": -4500
+        }
+    },
+    {
+        "name": "Vision 12",
+        "color": "#ffffff",
+        "icon": "flag",
+        "visibility": "always",
+        "location": {
+            "x": -838,
+            "y": 33,
+            "z": -472
+        }
+    },
+    {
+        "name": "Vision 13",
+        "color": "#ffffff",
+        "icon": "flag",
+        "visibility": "always",
+        "location": {
+            "x": -1472,
+            "y": 42,
+            "z": -4726
+        }
+    },
+    {
+        "name": "Vision 14",
+        "color": "#ffffff",
+        "icon": "flag",
+        "visibility": "always",
+        "location": {
+            "x": -1184,
+            "y": 46,
+            "z": -5200
+        }
+    },
+    {
+        "name": "Vision 15",
+        "color": "#ffffff",
+        "icon": "flag",
+        "visibility": "always",
+        "location": {
+            "x": -1060,
+            "y": 42,
+            "z": -5012
+        }
+    },
+    {
+        "name": "Vision 16",
+        "color": "#ffffff",
+        "icon": "flag",
+        "visibility": "always",
+        "location": {
+            "x": -1338,
+            "y": 110,
+            "z": -2881
+        }
+    },
+    {
+        "name": "Vision 17",
+        "color": "#ffffff",
+        "icon": "flag",
+        "visibility": "always",
+        "location": {
+            "x": -446,
+            "y": 47,
+            "z": -4940
+        }
+    },
+    {
+        "name": "Vision 18",
+        "color": "#ffffff",
+        "icon": "flag",
+        "visibility": "always",
+        "location": {
+            "x": -193,
+            "y": 30,
+            "z": -5327
+        }
+    },
+    {
+        "name": "Vision 19",
+        "color": "#ffffff",
+        "icon": "flag",
+        "visibility": "always",
+        "location": {
+            "x": 857,
+            "y": 149,
+            "z": -5000
+        }
+    },
+    {
+        "name": "Vision 20",
+        "color": "#ffffff",
+        "icon": "flag",
+        "visibility": "always",
+        "location": {
+            "x": 1486,
+            "y": 148,
+            "z": -5129
+        }
+    },
+    {
+        "name": "Vision 21",
+        "color": "#ffffff",
+        "icon": "flag",
+        "visibility": "always",
+        "location": {
+            "x": 1505,
+            "y": 104,
+            "z": -4805
+        }
+    },
+    {
+        "name": "Vision 22",
+        "color": "#ffffff",
+        "icon": "flag",
+        "visibility": "always",
+        "location": {
+            "x": 1310,
+            "y": 35,
+            "z": -4093
+        }
+    },
+    {
+        "name": "Vision 23",
+        "color": "#ffffff",
+        "icon": "flag",
+        "visibility": "always",
+        "location": {
+            "x": -296,
+            "y": 57,
+            "z": -4047
+        }
+    }
+]
