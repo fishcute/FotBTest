@@ -251,5 +251,27 @@
             "y": 57,
             "z": -4047
         }
+    },
+    {
+        "name": "Vision 24",
+        "color": "#ffffff",
+        "icon": "flag",
+        "visibility": "always",
+        "location": {
+            "x": -111,
+            "y": 71,
+            "z": -812
+        }
+    },
+    {
+        "name": "Vision 25",
+        "color": "#ffffff",
+        "icon": "flag",
+        "visibility": "always",
+        "location": {
+            "x": 35,
+            "y": 61,
+            "z": -1575
+        }
     }
 ]
